@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "typescript": "^5.3.2"
+  },
+  "name": "web-dev-exercises-main",
+  "description": "JS. whatever she wants TS. knows how to behave",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "6000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/evayoo/web-dev-exercises.git"
+  },
+  "keywords": [
+    "web",
+    "dev"
+  ],
+  "author": "Chaewon Yoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evayoo/web-dev-exercises/issues"
+  },
+  "homepage": "https://github.com/evayoo/web-dev-exercises#readme"
+}
